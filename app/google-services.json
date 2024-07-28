@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43193894654",
+    "project_id": "expense-manager-firebase-4c925",
+    "storage_bucket": "expense-manager-firebase-4c925.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43193894654:android:4699778c2dca0ab78347af",
+        "android_client_info": {
+          "package_name": "com.example.expensemanagerfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRB5UgpOO4dwO6pkh0t_UGoJj2ixxhsBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
