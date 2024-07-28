@@ -1,4 +1,5 @@
-This is expense manager app development project to manage users money expenses on a daily basis
+This is expense manager app development project to manage users money expenses on a daily basis.
+The apk link of the app is https://drive.google.com/file/d/10972yVvbpclWpfgbSNgvODWlGLgBNX_M/view?usp=drive_link
 
 ![WhatsApp Image 2024-07-28 at 11 26 53 PM](https://github.com/user-attachments/assets/2634fda6-c975-44b5-81bd-ad4e7e87d7f5)
 
